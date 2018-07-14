@@ -35,6 +35,12 @@ h2 {
 	padding-top: 0;
 
 }
+.mainbody{
+       position: absolute;
+       top: 40px; /* Header Height */
+       bottom: 20px; /* Footer Height */
+       width: 100%;
+    }
 
 p.foot {
 	text-align: right;
