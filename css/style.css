@@ -31,7 +31,8 @@ h2 {
 
 .wrapper {
 	background: #fff;
-	display: block;;
+	display: block;
+	margin-top: 0;
 
 }
 
