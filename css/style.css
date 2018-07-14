@@ -46,13 +46,13 @@ p.foot {
 
 #press img {
 	border-style: solid;
-	border-width: 3px;
+	border-width: 4px;
 	border-color: #ccc;
 }
 
 #press img:hover {
 	border-style: solid;
-	border-width: 5px;
+	border-width: 4px;
 	border-color: #717f7a;
 }
 
