@@ -19,6 +19,9 @@ body {
 
 /* Write all remaining styles here */
 
+header {
+	display: block;
+}
 h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 5em;
