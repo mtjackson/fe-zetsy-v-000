@@ -26,7 +26,7 @@ h1 {
 	padding: 0;
 	margin: 0;
 	margin-bottom: 10px;
-	border-bottom: 1px;
+	border-bottom: solid;
 }
 h2 {
 	color: #6a807a;
