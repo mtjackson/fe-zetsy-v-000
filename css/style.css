@@ -27,6 +27,7 @@ h1 {
 	margin: 0;
 	margin-bottom: 10px;
 	border-bottom: solid;
+	border-width: thin;
 }
 h2 {
 	color: #6a807a;
